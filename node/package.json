@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "csv": "^6.2.8",
+    "csv-parser": "^3.0.0",
+    "fast-csv": "^4.3.6",
+    "uuid": "^9.0.0"
+  }
+}
